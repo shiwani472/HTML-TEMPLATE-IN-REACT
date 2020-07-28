@@ -72,7 +72,7 @@ class App extends Component {
       case "email":
         formErrors.email = emailRegex.test(value)
           ? ""
-          : "invalid email address";
+          : "pract email address";
         break;
       case "password":
         formErrors.password =
