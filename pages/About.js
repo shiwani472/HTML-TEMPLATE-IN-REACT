@@ -19,7 +19,7 @@ class About extends React.Component{
 	{/* <!--about-mid --> */}
     <section class="banner-bottom py-5" id="exp">
         <div class="container py-md-5">
-	<h3 class="heading text-center mb-3 mb-sm-5">About More</h3>
+	<h3 class="heading text-center mb-3 mb-sm-5">About Us</h3>
             <div class="row mid-grids mt-lg-5 mt-3">
                 <div class="col-md-5 content-w3pvt-img">
                     <img src="images/ab1.jpg" alt="" class="img-fluid"/>
